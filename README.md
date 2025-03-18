@@ -3,6 +3,8 @@
 ## Overview
 The **Cargo Management System** A web-based platform for managing cargo in space stations, using Java Servlets and MySQL. Deployed using Docker.
 
+![Screenshot 2025-03-18 214653](https://github.com/user-attachments/assets/d703717c-4a50-4476-ad46-819165c629e1)
+
 ## Features
 - **Cargo Management**:
   - Add new cargo items with details such as weight, category, and expiry date.
