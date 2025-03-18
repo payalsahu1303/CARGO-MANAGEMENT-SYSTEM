@@ -20,7 +20,7 @@ public class DBConnection extends HttpServlet {
     // Database Credentials
     private static final String URL = "jdbc:mysql://localhost:3306/cargo_db?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
     private static final String USER = "root";
-    private static final String PASSWORD = "Payal@123"; // Replace with your actual password
+    private static final String PASSWORD = "root"; // Replace with your actual password
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.setContentType("text/html");
